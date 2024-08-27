@@ -1,16 +1,10 @@
-# example
+# BMI Calculator
 
-A new Flutter project.
+This is a Flutter BMI Calculator Android App, which allows users to calculate their Body Mass Index by inputting their weight and height. The app provides a simple interface, displays the BMI result, and categorizes it into underweight, normal weight, overweight, or obese. It's a quick tool for health monitoring and awareness.
 
-## Getting Started
+## Output
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![1](https://github.com/user-attachments/assets/13c07e47-2d2f-4527-85c0-e4b45d63ef9c)
+![2](https://github.com/user-attachments/assets/71c99de2-c25d-4432-b3aa-048aca058a58)
+![3](https://github.com/user-attachments/assets/0baa661b-727e-4ed2-a63a-459e336e2faf)
+![4](https://github.com/user-attachments/assets/d6bde08c-be58-4998-b8a1-afba3849c5f1)
